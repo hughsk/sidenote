@@ -1,0 +1,34 @@
+{
+  "name": "sidenote",
+  "version": "1.0.0",
+  "description": "Given a list of string pairs, align each pair either right or left",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test | tap-spec"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "dependencies": {},
+  "devDependencies": {
+    "tap-spec": "^0.2.0",
+    "tape": "^2.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/sidenote.git"
+  },
+  "keywords": [
+    "align",
+    "text",
+    "pre",
+    "whitespace",
+    "text",
+    "string",
+    "list",
+    "menu"
+  ],
+  "homepage": "https://github.com/hughsk/sidenote",
+  "bugs": {
+    "url": "https://github.com/hughsk/sidenote/issues"
+  }
+}
